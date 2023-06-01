@@ -1,0 +1,28 @@
+
+.ejemplo1{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.ejemplo2{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.ejemplo3{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+}
